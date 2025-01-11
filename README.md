@@ -1,6 +1,6 @@
 # About Me
 I am a farmer, software developer and electronic engineer. <br> 
-In here you will find mostly agriculture related Projects, but also some related to managing my daughters epilepsy and home automation. 
+In here you will find mostly agriculture and automation related Projects, but also some related to managing my daughters epilepsy. 
 
 ## Skills and Interests
 - **Programming Languages:** JavaScript, C++, HTML, CSS, PHP, Python
