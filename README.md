@@ -1,6 +1,3 @@
-![Header](./github-header-image.png)
-
-
 
 # About Me
 I am a farmer, software developer and electronic engineer. <br> 
