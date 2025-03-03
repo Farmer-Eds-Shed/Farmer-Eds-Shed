@@ -14,6 +14,7 @@ In here you will find mostly agriculture and automation related Projects, but al
 - **[Node-Red-4-farmOS ](https://github.com/Farmer-Eds-Shed/Node-Red-4-farmOS):** Node-Red Nodes and subflows for interacting with farmOS API.
 - **[Silage Calculator](https://github.com/Farmer-Eds-Shed/Silage-Calculator):** A Simple silage calculator.
 - **[Farm Weather Window](https://github.com/Farmer-Eds-Shed/Farm-Weather-Window):** Python Farm Weather App using OpenWeatherMap API.
+- **[Milk Replacer Calculator](https://github.com/Farmer-Eds-Shed/Milk-Replacer-Calculator):** Calculator for working out milk powder to water mix
 
 ## Epilepsy Projects
 - **[Heart Rate Alarm](https://github.com/Farmer-Eds-Shed/Heart-Rate-Alarm):** Open-source Android alarm for naucturnal epeliptic seizures, works with fitness HRM monitors.
