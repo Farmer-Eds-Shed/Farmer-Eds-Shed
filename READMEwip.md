@@ -1,4 +1,3 @@
-
 # 👨‍🌾 Farmer Ed’s Shed
 
 Welcome to my shed — where open-source meets farmyard pragmatism.
@@ -7,7 +6,7 @@ I’m a software developer, electronic engineer, and farmer with a passion for s
 
 Most repos are works-in-progress — feedback, forks, and ideas welcome!
 
-[![GitHub Followers](https://img.shields.io/github/followers/Farmer-Eds-Shed?label=Follow&style=social)](https://github.com/Farmer-Eds-Shed)
+[![GitHub Followers](https://img.shields.io/github/followers/Farmer-Eds-Shed?label=Follow&style=social)](https://github.com/Farmer-Eds-Shed)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green)
 ![Farm Tech](https://img.shields.io/badge/Farm%20Tech-Agri%20Tech-green)
 
@@ -49,18 +48,19 @@ Most repos are works-in-progress — feedback, forks, and ideas welcome!
 | [RuuviTag Hex Parser](https://github.com/Farmer-Eds-Shed/RuuviTag-Node-Red-Hex-Data-Parser) | Decode RuuviTag BLE data in Node-RED using JS/flows. | ![Lang](https://img.shields.io/github/languages/top/Farmer-Eds-Shed/RuuviTag-Node-Red-Hex-Data-Parser) ![License](https://img.shields.io/github/license/Farmer-Eds-Shed/RuuviTag-Node-Red-Hex-Data-Parser) |
 | [Google API Flows](https://github.com/Farmer-Eds-Shed/Node-Red-Google-API-Flows) | OAuth2 + Google API flows for Node-RED. | ![Lang](https://img.shields.io/github/languages/top/Farmer-Eds-Shed/Node-Red-Google-API-Flows) ![License](https://img.shields.io/github/license/Farmer-Eds-Shed/Node-Red-Google-API-Flows) |
 | [Toodledo API](https://github.com/Farmer-Eds-Shed/Toodledo-Node-Red-API) | OAuth2 + API integration for Toodledo in Node-RED. | ![Lang](https://img.shields.io/github/languages/top/Farmer-Eds-Shed/Toodledo-Node-Red-API) ![License](https://img.shields.io/github/license/Farmer-Eds-Shed/Toodledo-Node-Red-API) |
+
 ---
 
 ## 🧰 Tech Toolbox
 
-![Node-RED](https://img.shields.io/badge/Node--RED-Flow%20Logic-red?logo=nodered)  
-![MQTT](https://img.shields.io/badge/MQTT-IoT%20Messaging-purple?logo=mqtt)  
-![farmOS](https://img.shields.io/badge/farmOS-Agri%20Platform-green)  
-![RuuviTag](https://img.shields.io/badge/RuuviTag-BLE%20Sensors-blue)  
-![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black)  
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-blue?logo=homeassistant)  
-![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-00979D?logo=arduino)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Computing-5E5B6E?logo=raspberrypi)  
+![Node-RED](https://img.shields.io/badge/Node--RED-Flow%20Logic-red?logo=nodered)
+![MQTT](https://img.shields.io/badge/MQTT-IoT%20Messaging-purple?logo=mqtt)
+![farmOS](https://img.shields.io/badge/farmOS-Agri%20Platform-green)
+![RuuviTag](https://img.shields.io/badge/RuuviTag-BLE%20Sensors-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-blue?logo=homeassistant)
+![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-00979D?logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Computing-5E5B6E?logo=raspberrypi)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-Time%20Series%20DB-22a6b3?logo=influxdb)
 
 ---
@@ -68,6 +68,7 @@ Most repos are works-in-progress — feedback, forks, and ideas welcome!
 ## 🗣️ Let's Connect
 
 Have feedback? Ideas? Want to collaborate on open-source agri-tech?
+
 - Check out the repos
 - Open an issue or pull request
 - Or just fork and build your own baling-twine solutions 🚀
