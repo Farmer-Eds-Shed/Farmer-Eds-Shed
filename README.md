@@ -6,6 +6,8 @@ I’m a software developer, electronic engineer, and farmer with a passion for s
 
 Most repos are works-in-progress - feedback, forks, and ideas welcome!
 
+<a href="https://www.buymeacoffee.com/FarmerEd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 [![GitHub Followers](https://img.shields.io/github/followers/Farmer-Eds-Shed?label=Follow&style=social)](https://github.com/Farmer-Eds-Shed)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green)
 ![Farm Tech](https://img.shields.io/badge/Farm%20Tech-Agri%20Tech-green)
