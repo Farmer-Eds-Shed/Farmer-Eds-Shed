@@ -1,6 +1,6 @@
 # 👨‍🌾 Farmer Ed’s Shed
 
-Welcome to my shed — where open-source meets farmyard pragmatism.
+Welcome to my shed - where open-source meets farmyard pragmatism.
 
 I’m a software developer, electronic engineer, and farmer with a passion for solving data interoperability challenges on farms. In my day job, I work on integrating milking systems, weighing scales, EID readers, and more. I focus on bridging the gaps between agri-tech, environmental sensing, and automation. This repo contains my personal projects - everything from farm tools to home automation, with a special focus on health monitoring, which is important to me due to my daughter having epilepsy.
 
