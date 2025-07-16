@@ -2,9 +2,9 @@
 
 Welcome to my shed — where open-source meets farmyard pragmatism.
 
-I’m a software developer, electronic engineer, and farmer with a passion for solving data interoperability challenges on farms. In my day job, I work on integrating milking systems, weighing scales, EID readers, and more. I focus on bridging the gaps between agri-tech, environmental sensing, and automation. This repo contains my personal projects — everything from farm tools to home automation, with a special focus on health monitoring, which is important to me due to my daughter having epilepsy.
+I’m a software developer, electronic engineer, and farmer with a passion for solving data interoperability challenges on farms. In my day job, I work on integrating milking systems, weighing scales, EID readers, and more. I focus on bridging the gaps between agri-tech, environmental sensing, and automation. This repo contains my personal projects - everything from farm tools to home automation, with a special focus on health monitoring, which is important to me due to my daughter having epilepsy.
 
-Most repos are works-in-progress — feedback, forks, and ideas welcome!
+Most repos are works-in-progress - feedback, forks, and ideas welcome!
 
 [![GitHub Followers](https://img.shields.io/github/followers/Farmer-Eds-Shed?label=Follow&style=social)](https://github.com/Farmer-Eds-Shed)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green)
